@@ -1,0 +1,1 @@
+a:1:{i:0;a:10:{s:5:"recid";s:13:"6756bfe8a27e6";s:8:"fullname";s:12:"Johnny Bravo";s:7:"address";s:15:"123 Philippines";s:9:"birthdate";s:10:"2012-07-05";s:3:"age";i:12;s:6:"gender";s:4:"Male";s:9:"civilstat";s:6:"Single";s:10:"contactnum";s:9:"123456789";s:6:"salary";d:50000;s:8:"isactive";i:1;}}
